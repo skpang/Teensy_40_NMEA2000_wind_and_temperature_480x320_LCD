@@ -6,6 +6,6 @@ For use with : http://skpang.co.uk/catalog/teensy-40-nmea-2000-board-with-480x32
 This example sketch reads data from a NMEA2000 wind sensor and a temperature sensor then dispalys the read on the LCD.
 
 Requires these libraries. 
-https://github.com/ttlappalainen/NMEA2000
+https://github.com/ttlappalainen/NMEA2000<br>
 https://github.com/lvgl/lvgl
 
